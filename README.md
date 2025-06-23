@@ -48,8 +48,8 @@ This project leverages real-world customer reviews from Zomato to uncover patter
 
 ## 📷 Screenshots
 
-> 📌 ![Dashboard Screenshot](images\screenshot1.png)
-> 📌 ![Dashboard Screenshot](images\screenshot2.png)
+> 📌 ![Dashboard Screenshot](./images/screenshot1.png)
+> 📌 ![Dashboard Screenshot](./images/screenshot2.png)
 
 ## ▶️ How to Run Locally
 
